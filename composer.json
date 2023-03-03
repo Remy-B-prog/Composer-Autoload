@@ -10,5 +10,8 @@
             "name": "remy"
         }
     ],
-    "require": {}
+    "require": {
+        "symfony/mailer": "^6.2",
+        "gipetto/cowsay": "^1.1"
+    }
 }
